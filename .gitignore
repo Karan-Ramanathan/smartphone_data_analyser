@@ -10,6 +10,7 @@ __pycache__/
 .Python
 build/
 Scripts/
+pyvenv.cfg
 *.DS_Store
 *.vscode/
 develop-eggs/
