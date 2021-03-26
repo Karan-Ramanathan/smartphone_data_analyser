@@ -33,5 +33,5 @@ python3 clean_data.py
 - On running the `clean_data.py` script, the script looks at data defined in various text files like `X-train.py`, `Y-train.py` and `features.txt`.
 - To understand how these files are related to each other, read the `README.txt` file attached in this repository.
 - This script consolidates data defined in those files into a single file in the same directory called - `clean_train_data.csv` containing 561 columns and 7532 rows.
-- Out of these 561 columns containing information about different vectors and features, we retain only 121 columns contaning magnitude information in them.
+- Out of these 561 columns containing information about different vectors and features, we retain only 119 columns contaning magnitude information in them as well as the activity and subject for each record.
 - This has been done to facilitate easier visualisation of data in the csv file.
