@@ -19,7 +19,7 @@ For running the script to generate structured data for analysis, you will need t
 pip install -r requirements.txt
 ```
 
--All the dependencies required to run the script have now been setup
+- All the dependencies required to run the script have now been setup
 
 ## Running the script
 
